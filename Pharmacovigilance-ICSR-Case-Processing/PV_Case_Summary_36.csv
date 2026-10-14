@@ -1,0 +1,37 @@
+Case_ID,Suspect_Drug,AE_Term_Illustrative,Severity,Seriousness_Criterion,Serious_Flag,Valid_ICSR,Reporter_Identifiable,Patient_Identifiable,Drug_Identified,AE_Identified,Event_Onset_Date,Outcome,Indication,Triage_Priority
+PV-2026-001,Amoxicillin,Rash,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-002,Ibuprofen,Abdominal pain,Severe,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-003,Metformin,Diarrhoea,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,,See original workbook,See original workbook,Routine Review
+PV-2026-004,Cetirizine,Dry mouth,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-005,Amoxicillin,Anaphylactic reaction,Severe,Life-threatening,Yes,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Priority Review
+PV-2026-006,Ibuprofen,Dizziness,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,,See original workbook,Routine Review
+PV-2026-007,Metformin,Nausea,Moderate,None,No,No,No,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Follow-up Required
+PV-2026-008,Cetirizine,Fatigue,Severe,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-009,Amoxicillin,Diarrhoea,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,,See original workbook,See original workbook,Routine Review
+PV-2026-010,Ibuprofen,Gastrointestinal haemorrhage,Severe,Hospitalization,Yes,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Priority Review
+PV-2026-011,Metformin,Abdominal discomfort,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-012,Cetirizine,Dizziness,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,,See original workbook,Routine Review
+PV-2026-013,Amoxicillin,Nausea,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-014,Ibuprofen,Dyspepsia,Mild,None,No,No,Yes,No,Yes,Yes,See original workbook,See original workbook,See original workbook,Follow-up Required
+PV-2026-015,Metformin,Vomiting,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-016,Cetirizine,Angioedema,Severe,Hospitalization,Yes,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Priority Review
+PV-2026-017,Amoxicillin,Rash,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,,See original workbook,See original workbook,Routine Review
+PV-2026-018,Ibuprofen,Abdominal pain,Severe,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-019,Metformin,Diarrhoea,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,,Routine Review
+PV-2026-020,Cetirizine,Dry mouth,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-021,Amoxicillin,Pruritus,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-022,Ibuprofen,Dizziness,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-023,Metformin,Lactic acidosis,Severe,Hospitalization,Yes,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Priority Review
+PV-2026-024,Cetirizine,Fatigue,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,,Routine Review
+PV-2026-025,Not documented,Diarrhoea,Moderate,None,No,No,Yes,Yes,No,Yes,See original workbook,See original workbook,See original workbook,Follow-up Required
+PV-2026-026,Ibuprofen,Nausea,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-027,Metformin,Abdominal discomfort,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-028,Cetirizine,Dizziness,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,,See original workbook,Routine Review
+PV-2026-029,Amoxicillin,Anaphylactic reaction,Severe,Life-threatening,Yes,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Priority Review
+PV-2026-030,Ibuprofen,Dyspepsia,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-031,Metformin,Vomiting,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,,See original workbook,See original workbook,Routine Review
+PV-2026-032,Cetirizine,Somnolence,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-033,Amoxicillin,Rash,Moderate,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
+PV-2026-034,Ibuprofen,,Mild,None,No,No,Yes,Yes,Yes,No,See original workbook,See original workbook,See original workbook,Follow-up Required
+PV-2026-035,Metformin,Lactic acidosis,Severe,Hospitalization,Yes,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Priority Review
+PV-2026-036,Cetirizine,Dry mouth,Mild,None,No,Yes,Yes,Yes,Yes,Yes,See original workbook,See original workbook,See original workbook,Routine Review
