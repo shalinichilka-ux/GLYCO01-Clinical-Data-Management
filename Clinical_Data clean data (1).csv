@@ -1,0 +1,601 @@
+﻿Record_ID,Study_ID,Subject_ID,Site_ID,Site_City,Visit,Visit_Date,Age,Sex,Treatment_Group,Dose_mg,HbA1c_Baseline,HbA1c_Current,Adverse_Event,AE_Severity,Serious_AE,AE_Outcome,Protocol_Deviation,Data_Entry_Status,Site_Check,Dose Check,Visit order,Date_check,AE_Text_Check
+REC-0001,GLYCO-01,SUBJ-001,S001,Hyderabad,Baseline,2026-01-04,70,Female,Placebo,0,9.4,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0002,GLYCO-01,SUBJ-001,S001,Hyderabad,Week 4,2026-02-04,70,Female,Placebo,0,9.4,9.2,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,2,OK,OK
+REC-0003,GLYCO-01,SUBJ-001,S001,Hyderabad,Week 8,2026-03-04,70,Female,Placebo,0,9.4,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0004,GLYCO-01,SUBJ-001,S001,Hyderabad,Week 12,2026-03-31,70,Female,Placebo,0,9.4,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0005,GLYCO-01,SUBJ-002,S002,Bengaluru,Baseline,2026-01-14,40,Male,DrugX 5 mg,5,8.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0006,GLYCO-01,SUBJ-002,S002,Bengaluru,Week 4,2026-02-10,40,Male,DrugX 5 mg,5,8.0,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0007,GLYCO-01,SUBJ-002,S002,Bengaluru,Week 8,2026-03-10,40,Male,DrugX 5 mg,5,8.0,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0008,GLYCO-01,SUBJ-002,S002,Bengaluru,Week 12,,40,Male,DrugX 5 mg,5,8.0,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,Missing Date,OK
+REC-0009,GLYCO-01,SUBJ-003,S003,Chennai,Baseline,2026-01-06,42,Female,DrugX 10 mg,10,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0010,GLYCO-01,SUBJ-003,S003,Chennai,Week 4,2026-02-01,42,Female,DrugX 10 mg,10,9.2,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0011,GLYCO-01,SUBJ-003,S003,Chennai,Week 8,2026-03-03,42,Female,DrugX 10 mg,10,9.2,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0012,GLYCO-01,SUBJ-003,S003,Chennai,Week 12,2026-04-02,42,Female,DrugX 10 mg,10,9.2,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0013,GLYCO-01,SUBJ-004,S001,Hyderabad,Baseline,2026-01-13,47,Female,Placebo,0,9.7,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0014,GLYCO-01,SUBJ-004,S001,Hyderabad,Week 4,2026-02-12,47,Female,Placebo,0,9.7,9.6,Fatigue,Moderate,No,Recovering,No,Complete,OK,OK,2,OK,OK
+REC-0015,GLYCO-01,SUBJ-004,S001,Hyderabad,Week 8,2026-03-13,47,Female,Placebo,0,9.7,9.4,Rash,Mild,No,Recovering,No,Complete,OK,OK,3,OK,OK
+REC-0016,GLYCO-01,SUBJ-004,S001,Hyderabad,Week 12,2026-04-11,47,Female,Placebo,0,9.7,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0017,GLYCO-01,SUBJ-005,S002,Bengaluru,Baseline,2026-01-07,35,Female,DrugX 5 mg,5,7.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0018,GLYCO-01,SUBJ-005,S002,Bengaluru,Week 4,2026-02-03,35,Female,DrugX 5 mg,5,7.7,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0019,GLYCO-01,SUBJ-005,S002,Bengaluru,Week 8,2026-03-07,35,Female,DrugX 5 mg,5,7.7,7.3,Rash,Mild,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0020,GLYCO-01,SUBJ-005,S002,Bengaluru,Week 12,2026-04-02,35,Female,DrugX 5 mg,5,7.7,6.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,4,OK,OK
+REC-0021,GLYCO-01,SUBJ-006,S003,Chennai,Baseline,2026-01-21,46,Female,DrugX 10 mg,10,9.9,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0022,GLYCO-01,SUBJ-006,S003,Chennai,Week 4,2026-02-17,46,Female,DrugX 10 mg,10,9.9,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0023,GLYCO-01,SUBJ-006,S003,Chennai,Week 8,2026-03-20,46,Female,DrugX 10 mg,10,9.9,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0024,GLYCO-01,SUBJ-006,S003,Chennai,Week 12,2026-04-15,46,Female,DrugX 10 mg,10,9.9,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0025,GLYCO-01,SUBJ-007,S001,Hyderabad,Baseline,2026-01-05,66,Female,Placebo,0,9.4,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0026,GLYCO-01,SUBJ-007,S001,Hyderabad,Week 4,2026-02-03,66,Female,Placebo,0,9.4,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0027,GLYCO-01,SUBJ-007,S001,Hyderabad,Week 8,2026-03-06,66,Female,Placebo,0,9.4,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0028,GLYCO-01,SUBJ-007,S001,Hyderabad,Week 12,2025-12-31,66,Female,Placebo,0,9.4,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,Date Error,OK
+REC-0029,GLYCO-01,SUBJ-008,S002,Bengaluru,Baseline,2026-01-06,63,Male,DrugX 5 mg,5,7.9,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0030,GLYCO-01,SUBJ-008,S002,Bengaluru,Week 4,2026-02-04,63,Male,DrugX 5 mg,5,7.9,7.7,Rash,Moderate,No,Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0031,GLYCO-01,SUBJ-008,S002,Bengaluru,Week 8,2026-03-05,63,Male,DrugX 5 mg,5,7.9,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0032,GLYCO-01,SUBJ-008,S002,Bengaluru,Week 12,2026-04-01,63,Male,DrugX 5 mg,5,7.9,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0033,GLYCO-01,SUBJ-009,S003,Chennai,Baseline,2026-01-12,60,Male,DrugX 10 mg,10,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0034,GLYCO-01,SUBJ-009,S003,Chennai,Week 4,2026-02-06,60,Male,DrugX 10 mg,10,7.5,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0035,GLYCO-01,SUBJ-009,S003,Chennai,Week 8,2026-03-08,60,Male,DrugX 10 mg,10,7.5,6.7,Nausea,Mild,No,Recovering,No,Complete,OK,OK,3,OK,OK
+REC-0036,GLYCO-01,SUBJ-009,S003,Chennai,Week 12,2026-04-06,60,Male,DrugX 10 mg,10,7.5,6.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0037,GLYCO-01,SUBJ-010,S001,Hyderabad,Baseline,2026-01-08,65,Female,Placebo,0,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0038,GLYCO-01,SUBJ-010,S001,Hyderabad,Week 4,2026-02-02,65,Female,Placebo,0,9.2,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0039,GLYCO-01,SUBJ-010,S001,Hyderabad,Week 8,2026-03-01,65,Female,Placebo,0,9.2,8.9,Diarrhoea,Mild,No,Recovering,No,Complete,OK,OK,3,OK,OK
+REC-0040,GLYCO-01,SUBJ-010,S001,Hyderabad,Week 12,2026-04-02,65,Female,Placebo,0,9.2,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0041,GLYCO-01,SUBJ-011,S002,Bengaluru,Baseline,2026-01-17,33,Female,DrugX 5 mg,5,7.4,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0042,GLYCO-01,SUBJ-011,S002,Bengaluru,Week 4,2026-02-14,33,Female,DrugX 5 mg,5,7.4,7.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0043,GLYCO-01,SUBJ-011,S002,Bengaluru,Week 8,2026-03-14,33,Female,DrugX 5 mg,5,7.4,6.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0044,GLYCO-01,SUBJ-011,S002,Bengaluru,Week 12,2026-04-11,33,Female,DrugX 5 mg,5,7.4,6.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0045,GLYCO-01,SUBJ-012,S003,Chennai,Baseline,2026-01-13,67,Male,DrugX 10 mg,10,7.8,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0046,GLYCO-01,SUBJ-012,S003,Chennai,Week 4,2026-02-10,67,Male,DrugX 10 mg,10,7.8,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0047,GLYCO-01,SUBJ-012,S003,Chennai,Week 8,2026-03-12,67,Male,DrugX 10 mg,10,7.8,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0048,GLYCO-01,SUBJ-012,S003,Chennai,Week 12,2026-04-07,67,Male,DrugX 10 mg,10,7.8,6.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0049,GLYCO-01,SUBJ-013,S001,Hyderabad,Baseline,2026-01-19,48,Female,Placebo,0,9.7,9.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0050,GLYCO-01,SUBJ-013,S001,Hyderabad,Week 4,2026-02-18,48,Female,Placebo,0,9.7,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0051,GLYCO-01,SUBJ-013,S001,Hyderabad,Week 8,2026-03-15,48,Female,Placebo,0,9.7,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0052,GLYCO-01,SUBJ-013,S001,Hyderabad,Week 12,2026-04-13,48,Female,Placebo,0,9.7,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0053,GLYCO-01,SUBJ-014,S002,Bengaluru,Baseline,2026-01-11,46,Male,DrugX 5 mg,5,9.9,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0054,GLYCO-01,SUBJ-014,S002,Bengaluru,Week 4,2026-02-10,46,Male,DrugX 5 mg,5,9.9,9.5,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0055,GLYCO-01,SUBJ-014,S002,Bengaluru,Week 8,2026-03-09,46,Male,DrugX 5 mg,5,9.9,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0056,GLYCO-01,SUBJ-014,S002,Bengaluru,Week 12,2026-04-05,46,Male,DrugX 5 mg,5,9.9,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0057,GLYCO-01,SUBJ-015,S003,Chennai,Baseline,2026-01-18,53,Female,DrugX 10 mg,10,7.6,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0058,GLYCO-01,SUBJ-015,S003,Chennai,Week 4,2026-02-13,53,Female,DrugX 10 mg,10,7.6,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0059,GLYCO-01,SUBJ-015,S003,Chennai,Week 8,2026-03-17,53,Female,DrugX 10 mg,5,7.6,6.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,Mismatch,3,OK,OK
+REC-0060,GLYCO-01,SUBJ-015,S003,Chennai,Week 12,2026-04-11,53,Female,DrugX 10 mg,10,7.6,6.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0061,GLYCO-01,SUBJ-016,S001,Hyderabad,Baseline,2026-01-16,31,Female,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0062,GLYCO-01,SUBJ-016,S001,Hyderabad,Week 4,2026-02-11,31,Female,Placebo,0,9.5,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0063,GLYCO-01,SUBJ-016,S001,Hyderabad,Week 8,2026-03-13,31,Female,Placebo,0,9.5,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0064,GLYCO-01,SUBJ-016,S001,Hyderabad,Week 12,2026-04-08,31,Female,Placebo,0,9.5,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0065,GLYCO-01,SUBJ-017,S002,Bengaluru,Baseline,2026-01-17,34,Male,DrugX 5 mg,5,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0066,GLYCO-01,SUBJ-017,S002,Bengaluru,Week 4,2026-02-13,95,Male,DrugX 5 mg,5,9.1,9.0,Dizziness,,No,Recovering,No,Complete,OK,OK,2,OK,OK
+REC-0067,GLYCO-01,SUBJ-017,S002,Bengaluru,Week 8,2026-03-13,34,Male,DrugX 5 mg,5,9.1,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0068,GLYCO-01,SUBJ-017,S002,Bengaluru,Week 12,2026-04-11,34,Male,DrugX 5 mg,5,9.1,8.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0069,GLYCO-01,SUBJ-018,S003,Chennai,Baseline,2026-01-16,63,Female,DrugX 10 mg,10,8.5,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0070,GLYCO-01,SUBJ-018,S003,Chennai,Week 4,2026-02-11,63,Female,DrugX 10 mg,10,8.5,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0071,GLYCO-01,SUBJ-018,S003,Chennai,Week 8,2026-03-14,63,Female,DrugX 10 mg,10,8.5,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0072,GLYCO-01,SUBJ-018,S003,Chennai,Week 12,2026-04-11,63,Female,DrugX 10 mg,10,8.5,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0073,GLYCO-01,SUBJ-019,S001,Hyderabad,Baseline,2026-01-15,65,Female,Placebo,0,8.1,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0074,GLYCO-01,SUBJ-019,S001,Hyderabad,Week 4,2026-02-11,65,Female,Placebo,0,8.1,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0075,GLYCO-01,SUBJ-019,S001,Hyderabad,Week 8,2026-03-10,65,Female,Placebo,0,8.1,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0076,GLYCO-01,SUBJ-019,S001,Hyderabad,Week 12,2026-04-06,65,Female,Placebo,0,8.1,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0077,GLYCO-01,SUBJ-020,S002,Bengaluru,Baseline,2026-01-06,42,Female,DrugX 5 mg,5,7.3,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0078,GLYCO-01,SUBJ-020,S002,Bengaluru,Week 4,2026-02-03,42,Female,DrugX 5 mg,5,7.3,7.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0079,GLYCO-01,SUBJ-020,S002,Bengaluru,Week 8,2026-03-03,42,Female,DrugX 5 mg,5,7.3,6.7,Rash,Mild,No,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0080,GLYCO-01,SUBJ-020,S002,Bengaluru,Week 12,2026-04-01,42,Female,DrugX 5 mg,5,7.3,6.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0081,GLYCO-01,SUBJ-021,S003,Chennai,Baseline,2026-01-23,38,Male,DrugX 10 mg,10,10.2,10.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0082,GLYCO-01,SUBJ-021,S003,Chennai,Week 4,2026-02-19,38,Male,DrugX 10 mg,10,10.2,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0083,GLYCO-01,SUBJ-021,S003,Chennai,Week 8,2026-03-20,38,Male,DrugX 10 mg,10,10.2,9.3,Diarrhoea,Mild,Yes,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0084,GLYCO-01,SUBJ-021,S003,Chennai,Week 12,2026-04-17,38,Male,DrugX 10 mg,10,10.2,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0085,GLYCO-01,SUBJ-022,S001,Hyderabad,Baseline,2026-01-17,45,Male,Placebo,0,8.2,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0086,GLYCO-01,SUBJ-022,S001,Hyderabad,Week 4,2026-02-13,45,Male,Placebo,0,8.2,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0087,GLYCO-01,SUBJ-022,S001,Hyderabad,Week 8,2026-03-14,45,Male,Placebo,0,8.2,8.0,Diarrhoea,Mild,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0088,GLYCO-01,SUBJ-022,S001,Hyderabad,Week 12,2026-04-11,45,Male,Placebo,0,8.2,7.9,Dizziness,Mild,No,Recovering,No,Pending Review,OK,OK,4,OK,OK
+REC-0089,GLYCO-01,SUBJ-023,S002,Bengaluru,Baseline,2026-01-21,56,Female,DrugX 5 mg,5,7.9,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0090,GLYCO-01,SUBJ-023,S002,Bengaluru,Week 4,2026-02-18,56,Female,DrugX 5 mg,5,7.9,7.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0091,GLYCO-01,SUBJ-023,S002,Bengaluru,Week 8,2026-03-19,56,Female,DrugX 5 mg,5,7.9,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0092,GLYCO-01,SUBJ-023,S002,Mumbai,Week 12,2026-04-15,56,Female,DrugX 5 mg,5,7.9,6.9,None,Not Applicable,No,Not Applicable,No,Complete,Mismatch,OK,4,OK,OK
+REC-0093,GLYCO-01,SUBJ-024,S003,Chennai,Baseline,2026-01-16,43,Male,DrugX 10 mg,10,8.2,8.2,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0094,GLYCO-01,SUBJ-024,S003,Chennai,Week 4,2026-02-13,43,Male,DrugX 10 mg,10,8.2,7.7,Headache,,No,Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0095,GLYCO-01,SUBJ-024,S003,Chennai,Week 8,2026-03-10,43,Male,DrugX 10 mg,10,8.2,7.4,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0096,GLYCO-01,SUBJ-024,S003,Chennai,Week 12,2026-04-08,43,Male,DrugX 10 mg,10,8.2,7.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0097,GLYCO-01,SUBJ-025,S001,Hyderabad,Baseline,2026-01-19,37,Female,Placebo,0,9.3,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0098,GLYCO-01,SUBJ-025,S001,Hyderabad,Week 4,2026-02-14,37,Female,Placebo,0,9.3,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0099,GLYCO-01,SUBJ-025,S001,Hyderabad,Week 8,2026-03-16,37,Female,Placebo,0,9.3,9.2,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0100,GLYCO-01,SUBJ-025,S001,Hyderabad,Week 12,2026-04-12,37,Female,Placebo,0,9.3,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0101,GLYCO-01,SUBJ-026,S002,Bengaluru,Baseline,2026-01-23,49,Female,DrugX 5 mg,5,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0102,GLYCO-01,SUBJ-026,S002,Bengaluru,Week 4,2026-02-18,49,Female,DrugX 5 mg,5,9.5,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0103,GLYCO-01,SUBJ-026,S002,Bengaluru,Week 8,2026-03-18,49,Female,DrugX 5 mg,5,9.5,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0104,GLYCO-01,SUBJ-026,S002,Bengaluru,Week 12,2026-04-16,49,Female,DrugX 5 mg,5,9.5,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0105,GLYCO-01,SUBJ-027,S003,Chennai,Baseline,2026-01-21,64,Male,DrugX 10 mg,10,8.5,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0106,GLYCO-01,SUBJ-027,S003,Chennai,Week 4,2026-02-14,64,Male,DrugX 10 mg,10,8.5,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0107,GLYCO-01,SUBJ-027,S003,Chennai,Week 8,2026-03-17,64,Male,DrugX 10 mg,10,8.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0108,GLYCO-01,SUBJ-027,S003,Chennai,Week 12,2026-04-13,64,Male,DrugX 10 mg,10,8.5,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0109,GLYCO-01,SUBJ-028,S001,Hyderabad,Baseline,2026-01-19,47,Female,Placebo,0,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0110,GLYCO-01,SUBJ-028,S001,Hyderabad,Week 4,2026-02-20,47,Female,Placebo,0,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0111,GLYCO-01,SUBJ-028,S001,Hyderabad,Week 8,2026-03-16,92,Female,Placebo,0,10.0,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0112,GLYCO-01,SUBJ-028,S001,Hyderabad,Week 12,2026-04-17,47,Female,Placebo,0,10.0,9.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,4,OK,OK
+REC-0113,GLYCO-01,SUBJ-029,S002,Bengaluru,Baseline,2026-01-16,65,Male,DrugX 5 mg,5,9.3,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0114,GLYCO-01,SUBJ-029,S002,Bengaluru,Week 4,2026-02-12,65,Male,DrugX 5 mg,5,9.3,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0115,GLYCO-01,SUBJ-029,S002,Bengaluru,Week 8,2026-03-12,65,Male,DrugX 5 mg,5,9.3,8.6,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0116,GLYCO-01,SUBJ-029,S002,Bengaluru,Week 12,2026-04-12,65,Male,DrugX 5 mg,5,9.3,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0117,GLYCO-01,SUBJ-030,S003,Chennai,Baseline,2026-01-16,53,Female,DrugX 10 mg,10,7.2,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0118,GLYCO-01,SUBJ-030,S003,Chennai,Week 4,2026-02-09,53,Female,DrugX 10 mg,10,7.2,,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0119,GLYCO-01,SUBJ-030,S003,Chennai,Week 8,2026-03-12,53,Female,DrugX 10 mg,10,7.2,6.2,Dizziness,Mild,No,Recovering,No,Pending Review,OK,OK,3,OK,OK
+REC-0120,GLYCO-01,SUBJ-030,S003,Chennai,Week 12,2026-04-08,53,Female,DrugX 10 mg,10,7.2,6.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0121,GLYCO-01,SUBJ-031,S001,Hyderabad,Baseline,2026-01-11,34,Female,Placebo,0,7.6,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0122,GLYCO-01,SUBJ-031,S001,Hyderabad,Week 4,2026-02-05,34,Female,Placebo,0,7.6,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0123,GLYCO-01,SUBJ-031,S001,Hyderabad,Week 8,2026-03-05,34,Female,Placebo,0,7.6,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0124,GLYCO-01,SUBJ-031,S001,Hyderabad,Week 12,2026-04-05,34,Female,Placebo,0,7.6,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0125,GLYCO-01,SUBJ-032,S002,Bengaluru,Baseline,2026-01-23,36,Female,DrugX 5 mg,5,7.8,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0126,GLYCO-01,SUBJ-032,S002,Bengaluru,Week 4,2026-02-20,36,Female,DrugX 5 mg,5,7.8,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0127,GLYCO-01,SUBJ-032,S002,Bengaluru,Week 8,2026-03-20,36,Female,DrugX 5 mg,5,7.8,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0128,GLYCO-01,SUBJ-032,S002,Bengaluru,Week 12,2026-04-18,36,Female,DrugX 5 mg,5,7.8,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0129,GLYCO-01,SUBJ-033,S003,Chennai,Baseline,2026-01-07,42,Male,DrugX 10 mg,10,8.8,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0130,GLYCO-01,SUBJ-033,S003,Chennai,Week 4,2026-02-03,42,Male,DrugX 10 mg,10,8.8,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0131,GLYCO-01,SUBJ-033,S003,Chennai,Week 8,2026-03-05,42,Male,DrugX 10 mg,10,8.8,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0132,GLYCO-01,SUBJ-033,S003,Chennai,Week 12,2026-04-02,42,Male,DrugX 10 mg,10,8.8,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0133,GLYCO-01,SUBJ-034,S001,Hyderabad,Baseline,2026-01-22,57,Male,Placebo,0,8.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0134,GLYCO-01,SUBJ-034,S001,Hyderabad,Week 4,2026-02-23,57,Male,Placebo,0,8.0,8.0,Rash,Moderate,No,Not Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0135,GLYCO-01,SUBJ-034,S001,Hyderabad,Week 8,2026-03-22,57,Male,Placebo,0,8.0,7.8,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0136,GLYCO-01,SUBJ-034,S001,Hyderabad,Week 12,2026-04-19,57,Male,Placebo,0,8.0,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0137,GLYCO-01,SUBJ-035,S002,Bengaluru,Baseline,2026-01-08,51,Male,DrugX 5 mg,5,9.8,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0138,GLYCO-01,SUBJ-035,S002,Bengaluru,Week 4,2026-02-06,51,Male,DrugX 5 mg,5,9.8,9.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0139,GLYCO-01,SUBJ-035,S002,Bengaluru,Week 8,2026-03-05,51,Male,DrugX 5 mg,5,9.8,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0140,GLYCO-01,SUBJ-035,S002,Bengaluru,Week 12,2026-03-31,51,Male,DrugX 5 mg,5,9.8,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0141,GLYCO-01,SUBJ-036,S003,Chennai,Baseline,2026-01-23,53,Male,DrugX 10 mg,10,8.5,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0142,GLYCO-01,SUBJ-036,S003,Chennai,Week 4,2026-02-22,53,Male,DrugX 10 mg,10,8.5,8.0,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0143,GLYCO-01,SUBJ-036,S003,Chennai,Week 8,2026-03-24,53,Male,DrugX 10 mg,10,8.5,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0144,GLYCO-01,SUBJ-036,S003,Chennai,Week 12,2026-01-18,53,Male,DrugX 10 mg,10,8.5,7.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,Date Error,OK
+REC-0145,GLYCO-01,SUBJ-037,S001,Hyderabad,Baseline,2026-01-20,37,Female,Placebo,0,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0146,GLYCO-01,SUBJ-037,S001,Hyderabad,Week 4,2026-02-18,37,Female,Placebo,0,10.0,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0147,GLYCO-01,SUBJ-037,S001,Hyderabad,Week 8,2026-03-19,37,Female,Placebo,0,10.0,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0148,GLYCO-01,SUBJ-037,S001,Hyderabad,Week 12,2026-04-15,37,Female,Placebo,0,10.0,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0149,GLYCO-01,SUBJ-038,S002,Bengaluru,Baseline,2026-01-10,49,Male,DrugX 5 mg,5,8.5,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0150,GLYCO-01,SUBJ-038,S002,Bengaluru,Week 4,2026-02-08,49,Male,DrugX 5 mg,5,8.5,8.2,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0151,GLYCO-01,SUBJ-038,S002,Bengaluru,Week 8,2026-03-05,49,Male,DrugX 5 mg,5,8.5,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0152,GLYCO-01,SUBJ-038,S002,Bengaluru,Week 12,2026-04-04,49,Male,DrugX 5 mg,5,8.5,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0153,GLYCO-01,SUBJ-039,S003,Chennai,Baseline,2026-01-19,71,Female,DrugX 10 mg,10,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0154,GLYCO-01,SUBJ-039,S003,Chennai,Week 4,2026-02-15,71,Female,DrugX 10 mg,5,10.1,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,Mismatch,2,OK,OK
+REC-0155,GLYCO-01,SUBJ-039,S003,Chennai,Week 8,2026-03-16,71,Female,DrugX 10 mg,10,10.1,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0156,GLYCO-01,SUBJ-039,S003,Chennai,Week 12,2026-04-14,71,Female,DrugX 10 mg,10,10.1,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0157,GLYCO-01,SUBJ-040,S001,Hyderabad,Baseline,2026-01-16,64,Male,Placebo,0,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0158,GLYCO-01,SUBJ-040,S001,Hyderabad,Week 4,2026-02-10,64,Male,Placebo,0,9.1,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0159,GLYCO-01,SUBJ-040,S001,Hyderabad,Week 8,2026-03-10,64,Male,Placebo,0,9.1,8.9,Rash,Moderate,No,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0160,GLYCO-01,SUBJ-040,S001,Hyderabad,Week 12,2026-04-07,64,Male,Placebo,0,9.1,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0161,GLYCO-01,SUBJ-041,S002,Bengaluru,Baseline,2026-01-20,39,Female,DrugX 5 mg,5,8.4,8.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0162,GLYCO-01,SUBJ-041,S002,Bengaluru,Week 4,2026-02-19,39,Female,DrugX 5 mg,5,8.4,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0163,GLYCO-01,SUBJ-041,S002,Bengaluru,Week 8,2026-03-19,39,Female,DrugX 5 mg,5,8.4,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0164,GLYCO-01,SUBJ-041,S002,Bengaluru,Week 12,2026-04-16,39,Female,DrugX 5 mg,5,8.4,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0165,GLYCO-01,SUBJ-042,S003,Chennai,Baseline,2026-01-25,52,Male,DrugX 10 mg,10,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0166,GLYCO-01,SUBJ-042,S003,Chennai,Week 4,2026-02-23,52,Male,DrugX 10 mg,10,10.1,9.8,Diarrhoea,Mild,No,Not Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0167,GLYCO-01,SUBJ-042,S003,Chennai,Week 8,2026-03-20,52,Male,DrugX 10 mg,10,10.1,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0168,GLYCO-01,SUBJ-042,S003,Chennai,Week 12,2026-04-17,52,Male,DrugX 10 mg,10,10.1,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0169,GLYCO-01,SUBJ-043,S001,Hyderabad,Baseline,2026-01-14,44,Male,Placebo,0,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0170,GLYCO-01,SUBJ-043,S001,Hyderabad,Week 4,2026-02-08,44,Male,Placebo,0,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0171,GLYCO-01,SUBJ-043,S001,Hyderabad,Week 8,2026-03-10,44,Male,Placebo,0,9.1,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0172,GLYCO-01,SUBJ-043,S001,Hyderabad,Week 12,2026-04-06,44,Male,Placebo,0,9.1,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0173,GLYCO-01,SUBJ-044,S002,Bengaluru,Baseline,2026-01-11,53,Male,DrugX 5 mg,5,8.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0174,GLYCO-01,SUBJ-044,S002,Bengaluru,Week 4,2026-02-07,53,Male,DrugX 5 mg,5,8.0,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0175,GLYCO-01,SUBJ-044,S002,Bengaluru,Week 8,2026-03-06,53,Male,DrugX 5 mg,5,8.0,7.6,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0176,GLYCO-01,SUBJ-044,S002,Bengaluru,Week 12,2026-04-06,53,Male,DrugX 5 mg,5,8.0,7.1,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,4,OK,OK
+REC-0177,GLYCO-01,SUBJ-045,S003,Chennai,Baseline,2026-01-13,59,Male,DrugX 10 mg,10,9.0,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0178,GLYCO-01,SUBJ-045,S003,Chennai,Week 4,2026-02-08,59,Male,DrugX 10 mg,10,9.0,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0179,GLYCO-01,SUBJ-045,S003,Chennai,Week 8,2026-03-08,59,Male,DrugX 10 mg,10,9.0,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0180,GLYCO-01,SUBJ-045,S003,Chennai,Week 12,2026-04-05,59,Male,DrugX 10 mg,10,9.0,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0181,GLYCO-01,SUBJ-046,S001,Hyderabad,Baseline,2026-01-23,36,Female,Placebo,0,7.6,7.6,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0182,GLYCO-01,SUBJ-046,S001,Hyderabad,Week 4,2026-02-21,36,Female,Placebo,0,7.6,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0183,GLYCO-01,SUBJ-046,S001,Hyderabad,Week 8,2026-03-17,36,Female,Placebo,0,7.6,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0184,GLYCO-01,SUBJ-046,S001,Hyderabad,Week 12,2026-04-16,36,Female,Placebo,0,7.6,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0185,GLYCO-01,SUBJ-047,S002,Bengaluru,Baseline,2026-01-05,53,Male,DrugX 5 mg,5,8.4,8.4,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0186,GLYCO-01,SUBJ-047,S002,Bengaluru,Week 4,2026-02-04,53,Male,DrugX 5 mg,5,8.4,8.0,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0187,GLYCO-01,SUBJ-047,S002,Bengaluru,Week 8,2026-03-01,53,Male,DrugX 5 mg,5,8.4,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0188,GLYCO-01,SUBJ-047,S002,Mumbai,Week 12,2026-03-29,53,Male,DrugX 5 mg,5,8.4,7.7,None,Not Applicable,No,Not Applicable,No,Complete,Mismatch,OK,4,OK,OK
+REC-0189,GLYCO-01,SUBJ-048,S003,Chennai,Baseline,2026-01-11,44,Male,DrugX 10 mg,10,9.6,9.6,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,1,First Visit,OK
+REC-0190,GLYCO-01,SUBJ-048,S003,Chennai,Week 4,2026-02-05,44,Male,DrugX 10 mg,10,9.6,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0191,GLYCO-01,SUBJ-048,S003,Chennai,Week 8,2026-03-04,44,Male,DrugX 10 mg,10,9.6,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0192,GLYCO-01,SUBJ-048,S003,Chennai,Week 12,2026-04-01,44,Male,DrugX 10 mg,10,9.6,8.1,Rash,Mild,Yes,Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0193,GLYCO-01,SUBJ-049,S001,Hyderabad,Baseline,2026-01-21,53,Unknown,Placebo,0,8.7,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0194,GLYCO-01,SUBJ-049,S001,Hyderabad,Week 4,2026-02-18,53,Female,Placebo,0,8.7,8.5,None,Not Applicable,No,Not Applicable,Yes,Pending Review,OK,OK,2,OK,OK
+REC-0195,GLYCO-01,SUBJ-049,S001,Hyderabad,Week 8,2026-03-17,53,Female,Placebo,0,8.7,18.9,Rash,Moderate,No,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0196,GLYCO-01,SUBJ-049,S001,Hyderabad,Week 12,2026-04-12,53,Female,Placebo,0,8.7,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0197,GLYCO-01,SUBJ-050,S002,Bengaluru,Baseline,2026-01-25,50,Male,DrugX 5 mg,5,8.8,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0198,GLYCO-01,SUBJ-050,S002,Bengaluru,Week 4,2026-02-19,50,Male,DrugX 5 mg,5,8.8,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0199,GLYCO-01,SUBJ-050,S002,Bengaluru,Week 8,2026-03-20,50,Male,DrugX 5 mg,5,8.8,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0200,GLYCO-01,SUBJ-050,S002,Bengaluru,Week 12,2026-04-19,50,Male,DrugX 5 mg,5,8.8,7.9,Diarrhoea,,No,Recovering,No,Complete,OK,OK,4,OK,OK
+REC-0201,GLYCO-01,SUBJ-051,S003,Chennai,Baseline,2026-01-05,60,Female,DrugX 10 mg,10,9.7,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0202,GLYCO-01,SUBJ-051,S003,Chennai,Week 4,2026-02-04,60,Female,DrugX 10 mg,10,9.7,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0203,GLYCO-01,SUBJ-051,S003,Chennai,Week 8,2026-03-04,60,Female,DrugX 10 mg,10,9.7,8.9,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0204,GLYCO-01,SUBJ-051,S003,Chennai,Week 12,2026-04-02,60,Female,DrugX 10 mg,10,9.7,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0205,GLYCO-01,SUBJ-052,S001,Hyderabad,Baseline,2026-01-22,52,Female,Placebo,0,8.7,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0206,GLYCO-01,SUBJ-052,S001,Hyderabad,Week 4,2026-02-18,52,Female,Placebo,0,8.7,,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0207,GLYCO-01,SUBJ-052,S001,Hyderabad,Week 8,2026-03-19,52,Female,Placebo,0,8.7,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0208,GLYCO-01,SUBJ-052,S001,Hyderabad,Week 12,2026-04-19,52,Female,Placebo,0,8.7,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0209,GLYCO-01,SUBJ-053,S002,Bengaluru,Baseline,2026-01-10,47,Female,DrugX 5 mg,5,8.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0210,GLYCO-01,SUBJ-053,S002,Bengaluru,Week 4,2026-02-06,47,Female,DrugX 5 mg,5,8.0,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0211,GLYCO-01,SUBJ-053,S002,Bengaluru,Week 8,2026-03-05,47,Female,DrugX 5 mg,5,8.0,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0212,GLYCO-01,SUBJ-053,S002,Bengaluru,Week 12,2026-04-03,47,Female,DrugX 5 mg,5,8.0,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0213,GLYCO-01,SUBJ-054,S003,Chennai,Baseline,2026-01-11,35,Female,DrugX 10 mg,10,7.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0214,GLYCO-01,SUBJ-054,S003,Chennai,Week 4,2026-02-07,35,Female,DrugX 10 mg,10,7.7,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0215,GLYCO-01,SUBJ-054,S003,Chennai,Week 8,2026-03-08,35,Female,DrugX 10 mg,10,7.7,6.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0216,GLYCO-01,SUBJ-054,S003,Chennai,Week 12,2026-04-04,35,Female,DrugX 10 mg,10,7.7,6.4,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,4,OK,OK
+REC-0217,GLYCO-01,SUBJ-055,S001,Hyderabad,Baseline,2026-01-10,33,Female,Placebo,0,8.1,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0218,GLYCO-01,SUBJ-055,S001,Hyderabad,Week 4,2026-02-08,33,Female,Placebo,0,8.1,8.0,Rash,Mild,No,Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0219,GLYCO-01,SUBJ-055,S001,Hyderabad,Week 8,2026-03-10,33,Female,Placebo,0,8.1,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0220,GLYCO-01,SUBJ-055,S001,Hyderabad,Week 12,2026-04-03,33,Female,Placebo,0,8.1,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0221,GLYCO-01,SUBJ-056,S002,Bengaluru,Baseline,2026-01-23,57,Male,DrugX 5 mg,5,8.5,8.5,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0222,GLYCO-01,SUBJ-056,S002,Bengaluru,Week 4,2026-02-21,57,Male,DrugX 5 mg,5,8.5,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0223,GLYCO-01,SUBJ-056,S002,Bengaluru,Week 8,2026-03-20,57,Male,DrugX 5 mg,5,8.5,7.9,Diarrhoea,Mild,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0224,GLYCO-01,SUBJ-056,S002,Bengaluru,Week 12,2026-04-19,57,Male,DrugX 5 mg,5,8.5,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0225,GLYCO-01,SUBJ-057,S003,Chennai,Baseline,2026-01-15,63,Female,DrugX 10 mg,10,8.3,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0226,GLYCO-01,SUBJ-057,S003,Chennai,Week 4,2026-02-12,63,Female,DrugX 10 mg,10,8.3,7.7,Rash,Mild,No,Not Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0227,GLYCO-01,SUBJ-057,S003,Chennai,Week 8,2026-03-15,63,Female,DrugX 10 mg,10,8.3,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0228,GLYCO-01,SUBJ-057,S003,Chennai,Week 12,2026-04-12,63,Female,DrugX 10 mg,10,8.3,17.5,None,Not Applicable,No,Not Applicable,Y,Complete,OK,OK,4,OK,OK
+REC-0229,GLYCO-01,SUBJ-058,S001,Hyderabad,Baseline,2026-01-25,60,Male,Placebo,0,8.1,8.1,None,Not Applicable,No,Not Applicable,Noo,Complete,OK,OK,1,First Visit,OK
+REC-0230,GLYCO-01,SUBJ-058,S001,Hyderabad,Week 4,2026-02-20,60,Male,Placebo,0,8.1,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0231,GLYCO-01,SUBJ-058,S001,Hyderabad,Week 8,2026-03-20,60,Male,Placebo,0,8.1,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0232,GLYCO-01,SUBJ-058,S001,Hyderabad,Week 12,2026-04-20,60,Male,Placebo,0,8.1,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0233,GLYCO-01,SUBJ-059,S002,Bengaluru,Baseline,2026-01-17,58,Female,DrugX 5 mg,5,9.0,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0234,GLYCO-01,SUBJ-059,S002,Bengaluru,Week 4,2026-02-10,58,Female,DrugX 5 mg,5,9.0,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0235,GLYCO-01,SUBJ-059,S002,Bengaluru,Week 8,2026-03-11,58,Female,DrugX 5 mg,5,9.0,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0236,GLYCO-01,SUBJ-059,S002,Bengaluru,Week 12,2026-04-11,58,Female,DrugX 5 mg,5,9.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0237,GLYCO-01,SUBJ-060,S003,Chennai,Baseline,2026-01-23,51,Female,DrugX 10 mg,10,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0238,GLYCO-01,SUBJ-060,S003,Chennai,Week 4,2026-02-23,51,Female,DrugX 10 mg,10,9.1,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0239,GLYCO-01,SUBJ-060,S003,Chennai,Week 8,2026-03-21,51,Female,DrugX 10 mg,10,9.1,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0240,GLYCO-01,SUBJ-060,S003,Chennai,Week 12,2026-04-20,51,Female,DrugX 10 mg,10,9.1,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0241,GLYCO-01,SUBJ-061,S001,Hyderabad,Baseline,2026-01-11,71,Male,Placebo,0,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0242,GLYCO-01,SUBJ-061,S001,Hyderabad,Week 4,2026-02-08,71,Male,Placebo,0,9.2,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0243,GLYCO-01,SUBJ-061,S001,Hyderabad,Week 8,2026-03-07,71,Male,Placebo,0,9.2,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0244,GLYCO-01,SUBJ-061,S001,Hyderabad,Week 12,2026-04-01,71,Male,Placebo,0,9.2,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0245,GLYCO-01,SUBJ-062,S002,Bengaluru,Baseline,2026-01-25,72,Male,DrugX 5 mg,5,7.6,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0246,GLYCO-01,SUBJ-062,S002,Bengaluru,Week 4,2026-02-23,72,Male,DrugX 5 mg,5,7.6,,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0247,GLYCO-01,SUBJ-062,S002,Bengaluru,Week 8,2026-03-20,72,Male,DrugX 5 mg,10,7.6,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,Mismatch,3,OK,OK
+REC-0248,GLYCO-01,SUBJ-062,S002,Bengaluru,Week 12,2026-04-17,72,Male,DrugX 5 mg,5,7.6,6.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0249,GLYCO-01,SUBJ-063,S003,Chennai,Baseline,2026-01-24,42,Male,DrugX 10 mg,10,10.2,10.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0250,GLYCO-01,SUBJ-063,S003,Chennai,Week 4,2026-02-22,42,Male,DrugX 10 mg,10,10.2,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0251,GLYCO-01,SUBJ-063,S003,Chennai,Week 8,2026-03-19,42,Male,DrugX 10 mg,10,10.2,9.4,Diarrhoea,Moderate,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0252,GLYCO-01,SUBJ-063,S003,Chennai,Week 12,2026-04-19,42,Male,DrugX 10 mg,10,10.2,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0253,GLYCO-01,SUBJ-064,S001,Hyderabad,Baseline,2026-01-17,62,Female,Placebo,0,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0254,GLYCO-01,SUBJ-064,S001,Hyderabad,Week 4,2026-02-13,62,Female,Placebo,0,7.5,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0255,GLYCO-01,SUBJ-064,S001,Hyderabad,Week 8,2026-03-13,62,Female,Placebo,0,7.5,7.3,Headache,Moderate,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0256,GLYCO-01,SUBJ-064,S001,Hyderabad,Week 12,2026-04-10,62,Female,Placebo,0,7.5,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0257,GLYCO-01,SUBJ-065,S002,Bengaluru,Baseline,2026-01-22,60,Male,DrugX 5 mg,5,7.2,7.2,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,1,First Visit,OK
+REC-0258,GLYCO-01,SUBJ-065,S002,Bengaluru,Week 4,2026-02-20,60,Male,DrugX 5 mg,5,7.2,6.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0259,GLYCO-01,SUBJ-065,S002,Bengaluru,Week 8,2026-03-21,60,Male,DrugX 5 mg,5,7.2,6.5,Nausea,Mild,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0260,GLYCO-01,SUBJ-065,S002,Bengaluru,Week 12,2026-04-19,60,Male,DrugX 5 mg,5,7.2,6.4,Fatigue,Mild,No,Not Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0261,GLYCO-01,SUBJ-066,S003,Chennai,Baseline,2026-01-11,69,Male,DrugX 10 mg,10,8.9,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0262,GLYCO-01,SUBJ-066,S003,Chennai,Week 4,2026-02-09,69,Male,DrugX 10 mg,10,8.9,8.3,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0263,GLYCO-01,SUBJ-066,S003,Chennai,Week 8,2026-03-11,69,Male,DrugX 10 mg,10,8.9,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0264,GLYCO-01,SUBJ-066,S003,Chennai,Week 12,2026-04-06,69,Male,DrugX 10 mg,10,8.9,7.5,Headache,Mild,No,Not Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0265,GLYCO-01,SUBJ-067,S001,Hyderabad,Baseline,2026-01-11,67,Male,Placebo,0,7.3,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0266,GLYCO-01,SUBJ-067,S001,Hyderabad,Week 4,2026-02-07,67,Male,Placebo,0,7.3,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0267,GLYCO-01,SUBJ-067,S001,Hyderabad,Week 8,2025-12-30,67,Male,Placebo,0,7.3,7.0,Headache,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,Date Error,OK
+REC-0268,GLYCO-01,SUBJ-067,S001,Hyderabad,Week 12,2026-04-03,67,Male,Placebo,0,7.3,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0269,GLYCO-01,SUBJ-068,S002,Bengaluru,Baseline,2026-01-25,46,Female,DrugX 5 mg,5,7.8,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0270,GLYCO-01,SUBJ-068,S002,Bengaluru,Week 4,2026-02-22,46,Female,DrugX 5 mg,5,7.8,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0271,GLYCO-01,SUBJ-068,S002,Bengaluru,Week 8,2026-03-23,46,Female,DrugX 5 mg,5,7.8,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0272,GLYCO-01,SUBJ-068,S002,Bengaluru,Week 12,2026-04-20,46,Female,DrugX 5 mg,5,7.8,6.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0273,GLYCO-01,SUBJ-069,S003,Chennai,Baseline,2026-01-17,57,Female,DrugX 10 mg,10,9.0,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0274,GLYCO-01,SUBJ-069,S003,Chennai,Week 4,2026-02-13,57,Female,DrugX 10 mg,10,9.0,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0275,GLYCO-01,SUBJ-069,S003,Chennai,Week 8,2026-03-14,57,Female,DrugX 10 mg,10,9.0,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0276,GLYCO-01,SUBJ-069,S003,Chennai,Week 12,2026-04-12,57,Female,DrugX 10 mg,10,9.0,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0277,GLYCO-01,SUBJ-070,S001,Hyderabad,Baseline,2026-01-27,33,Female,Placebo,0,8.4,8.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0278,GLYCO-01,SUBJ-070,S001,Hyderabad,Week 4,2026-02-20,33,Female,Placebo,0,8.4,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0279,GLYCO-01,SUBJ-070,S001,Hyderabad,Week 8,2026-03-20,33,Female,Placebo,0,8.4,8.1,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0280,GLYCO-01,SUBJ-070,S001,Hyderabad,Week 12,2026-04-17,33,Female,Placebo,0,8.4,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0281,GLYCO-01,SUBJ-071,S002,Bengaluru,Baseline,2026-01-21,34,Female,DrugX 5 mg,5,8.3,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0282,GLYCO-01,SUBJ-071,S002,Bengaluru,Week 4,2026-02-16,34,Female,DrugX 5 mg,5,8.3,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0283,GLYCO-01,SUBJ-071,S002,Bengaluru,Week 8,2026-03-16,34,Female,DrugX 5 mg,5,8.3,7.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0284,GLYCO-01,SUBJ-071,S002,Bengaluru,Week 12,2026-04-15,34,M,DrugX 5 mg,5,8.3,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0285,GLYCO-01,SUBJ-072,S003,Chennai,Baseline,2026-01-11,34,Male,DrugX 10 mg,10,9.9,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0286,GLYCO-01,SUBJ-072,S003,Chennai,Week 4,2026-02-07,34,Male,DrugX 10 mg,10,9.9,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0287,GLYCO-01,SUBJ-072,S003,Chennai,Week 8,2026-03-07,34,Male,DrugX 10 mg,10,9.9,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0288,GLYCO-01,SUBJ-072,S003,Chennai,Week 12,2026-04-04,34,Male,DrugX 10 mg,10,9.9,8.6,Nausea,Moderate,No,Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0289,GLYCO-01,SUBJ-073,S001,Hyderabad,Baseline,2026-01-21,65,Male,Placebo,0,9.6,9.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0290,GLYCO-01,SUBJ-073,S001,Hyderabad,Week 4,,65,Male,Placebo,0,9.6,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,Missing Date,OK
+REC-0291,GLYCO-01,SUBJ-073,S001,Hyderabad,Week 8,2026-03-17,65,Male,Placebo,0,9.6,9.6,Dizziness,Moderate,No,Recovering,No,Complete,OK,OK,3,Previous Date Missing,OK
+REC-0292,GLYCO-01,SUBJ-073,S001,Hyderabad,Week 12,2026-04-12,65,Male,Placebo,0,9.6,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0293,GLYCO-01,SUBJ-074,S002,Bengaluru,Baseline,2026-01-19,38,Male,DrugX 5 mg,5,9.9,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0294,GLYCO-01,SUBJ-074,S002,Bengaluru,Week 4,2026-02-18,38,Male,DrugX 5 mg,5,9.9,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0295,GLYCO-01,SUBJ-074,S002,Bengaluru,Week 8,2026-03-20,38,Male,DrugX 5 mg,5,9.9,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0296,GLYCO-01,SUBJ-074,S002,Bengaluru,Week 12,2026-04-17,38,Male,DrugX 5 mg,5,9.9,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0297,GLYCO-01,SUBJ-075,S003,Chennai,Baseline,2026-01-22,71,Female,DrugX 10 mg,10,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0298,GLYCO-01,SUBJ-075,S003,Chennai,Week 4,2026-02-22,71,Female,DrugX 10 mg,10,10.0,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0299,GLYCO-01,SUBJ-075,S003,Chennai,Week 8,2026-03-18,71,Female,DrugX 10 mg,10,10.0,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0300,GLYCO-01,SUBJ-075,S003,Chennai,Week 12,2026-04-19,71,Female,DrugX 10 mg,10,10.0,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0301,GLYCO-01,SUBJ-076,S001,Hyderabad,Baseline,2026-01-21,48,Male,Placebo,0,7.9,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0302,GLYCO-01,SUBJ-076,S001,Hyderabad,Week 4,2026-02-15,48,Male,Placebo,0,7.9,7.7,Headache,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0303,GLYCO-01,SUBJ-076,S001,Hyderabad,Week 8,2026-03-16,48,Male,Placebo,0,7.9,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0304,GLYCO-01,SUBJ-076,S001,Hyderabad,Week 12,2026-01-19,48,Male,Placebo,0,7.9,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,Date Error,OK
+REC-0305,GLYCO-01,SUBJ-077,S002,Bengaluru,Baseline,2026-01-12,59,Female,DrugX 5 mg,5,8.5,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0306,GLYCO-01,SUBJ-077,S002,Bengaluru,Week 4,2026-02-11,15,FEMALE,DrugX 5 mg,5,8.5,8.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0307,GLYCO-01,SUBJ-077,S002,Bengaluru,Week 8,2026-03-10,59,Female,DrugX 5 mg,5,8.5,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0308,GLYCO-01,SUBJ-077,S002,Bengaluru,Week 12,2026-04-09,59,Female,DrugX 5 mg,5,8.5,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0309,GLYCO-01,SUBJ-078,S003,Chennai,Baseline,2026-01-12,55,Male,DrugX 10 mg,10,7.8,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0310,GLYCO-01,SUBJ-078,S003,Chennai,Week 4,2026-02-11,55,Male,DrugX 10 mg,10,7.8,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0311,GLYCO-01,SUBJ-078,S003,Chennai,Week 8,2026-03-07,55,Male,DrugX 10 mg,10,7.8,6.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0312,GLYCO-01,SUBJ-078,S003,Chennai,Week 12,2026-04-06,55,Male,DrugX 10 mg,10,7.8,6.3,Fatigue,Mild,No,Not Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0313,GLYCO-01,SUBJ-079,S001,Hyderabad,Baseline,2026-01-22,58,Male,Placebo,0,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0314,GLYCO-01,SUBJ-079,S001,Hyderabad,Week 4,2026-02-21,58,Male,Placebo,0,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0315,GLYCO-01,SUBJ-079,S001,Hyderabad,Week 8,2026-03-20,58,Male,Placebo,0,9.2,9.1,None,Not Applicable,No,Not Applicable,YES,Complete,OK,OK,3,OK,OK
+REC-0316,GLYCO-01,SUBJ-079,S001,Hyderabad,Week 12,2026-04-18,58,Male,Placebo,0,9.2,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0317,GLYCO-01,SUBJ-080,S002,Bengaluru,Baseline,2026-01-25,38,Male,DrugX 5 mg,5,8.2,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0318,GLYCO-01,SUBJ-080,S002,Bengaluru,Week 4,2026-02-21,38,Male,DrugX 5 mg,5,8.2,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0319,GLYCO-01,SUBJ-080,S002,Bengaluru,Week 8,2026-03-23,38,Male,DrugX 5 mg,5,8.2,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0320,GLYCO-01,SUBJ-080,S002,Bengaluru,Week 12,2026-04-19,38,Male,DrugX 5 mg,5,8.2,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0321,GLYCO-01,SUBJ-081,S003,Chennai,Baseline,2026-01-15,31,Male,DrugX 10 mg,10,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0322,GLYCO-01,SUBJ-081,S003,Chennai,Week 4,2026-02-12,31,Male,DrugX 10 mg,10,10.1,9.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0323,GLYCO-01,SUBJ-081,S003,Chennai,Week 8,2026-03-11,31,Male,DrugX 10 mg,10,10.1,9.1,None,Not Applicable,No,Not Applicable,Yes,Pending Review,OK,OK,3,OK,OK
+REC-0324,GLYCO-01,SUBJ-081,S003,Chennai,Week 12,2026-04-05,31,Male,DrugX 10 mg,10,10.1,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0325,GLYCO-01,SUBJ-082,S001,Hyderabad,Baseline,2026-01-22,43,Male,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0326,GLYCO-01,SUBJ-082,S001,Hyderabad,Week 4,2026-02-16,43,Male,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0327,GLYCO-01,SUBJ-082,S001,Hyderabad,Week 8,2026-03-19,43,Male,Placebo,0,9.5,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0328,GLYCO-01,SUBJ-082,S001,Hyderabad,Week 12,2026-04-15,43,Male,Placebo,5,9.5,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,Mismatch,4,OK,OK
+REC-0329,GLYCO-01,SUBJ-083,S002,Bengaluru,Baseline,2026-01-11,46,Male,DrugX 5 mg,5,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0330,GLYCO-01,SUBJ-083,S002,Bengaluru,Week 4,2026-02-08,46,Male,DrugX 5 mg,5,10.1,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0331,GLYCO-01,SUBJ-083,S002,Bengaluru,Week 8,2026-03-09,46,Male,DrugX 5 mg,5,10.1,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0332,GLYCO-01,SUBJ-083,S002,Bengaluru,Week 12,2026-04-03,46,Male,DrugX 5 mg,5,10.1,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0333,GLYCO-01,SUBJ-084,S003,Chennai,Baseline,2026-01-12,52,female,DrugX 10 mg,10,7.3,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0334,GLYCO-01,SUBJ-084,S003,Chennai,Week 4,2026-02-11,52,Female,DrugX 10 mg,10,7.3,6.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0335,GLYCO-01,SUBJ-084,S003,Chennai,Week 8,2026-03-13,52,Female,DrugX 10 mg,10,7.3,6.5,Fatigue,Mild,Yes,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0336,GLYCO-01,SUBJ-084,S003,Chennai,Week 12,2026-04-10,52,Female,DrugX 10 mg,10,7.3,5.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0337,GLYCO-01,SUBJ-085,S001,Hyderabad,Baseline,2026-01-11,60,Female,Placebo,0,7.2,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0338,GLYCO-01,SUBJ-085,S001,Hyderabad,Week 4,2026-02-07,60,Female,Placebo,0,7.2,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0339,GLYCO-01,SUBJ-085,S001,Hyderabad,Week 8,2026-03-04,60,Female,Placebo,0,7.2,7.2,Fatigue,Mild,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0340,GLYCO-01,SUBJ-085,S001,Hyderabad,Week 12,2026-04-02,60,Female,Placebo,0,7.2,6.9,None,Not Applicable,No,Not Applicable,0,Complete,OK,OK,4,OK,OK
+REC-0341,GLYCO-01,SUBJ-086,S002,Bengaluru,Baseline,2026-01-10,55,Male,DrugX 5 mg,5,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0342,GLYCO-01,SUBJ-086,S002,Bengaluru,Week 4,2026-02-09,55,Male,DrugX 5 mg,5,10.0,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0343,GLYCO-01,SUBJ-086,S002,Bengaluru,Week 8,2026-03-09,55,Male,DrugX 5 mg,5,10.0,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0344,GLYCO-01,SUBJ-086,S002,Mumbai,Week 12,2026-04-04,55,Male,DrugX 5 mg,5,10.0,9.0,Nausea,Moderate,No,Not Recovered,No,Complete,Mismatch,OK,4,OK,OK
+REC-0345,GLYCO-01,SUBJ-087,S003,Chennai,Baseline,2026-01-22,51,F,DrugX 10 mg,10,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0346,GLYCO-01,SUBJ-087,S003,Chennai,Week 4,2026-02-21,51,Male,DrugX 10 mg,10,9.2,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0347,GLYCO-01,SUBJ-087,S003,Chennai,Week 8,2026-03-19,51,Male,DrugX 10 mg,10,9.2,,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0348,GLYCO-01,SUBJ-087,S003,Chennai,Week 12,2026-04-18,51,Male,DrugX 10 mg,10,9.2,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0349,GLYCO-01,SUBJ-088,S001,Hyderabad,Baseline,2026-01-12,66,Female,Placebo,0,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0350,GLYCO-01,SUBJ-088,S001,Hyderabad,Week 4,2026-02-10,66,Female,Placebo,0,9.2,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0351,GLYCO-01,SUBJ-088,S001,Hyderabad,Week 8,2026-03-10,66,Female,Placebo,0,9.2,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0352,GLYCO-01,SUBJ-088,S001,Hyderabad,Week 12,2026-04-06,66,Female,Placebo,0,9.2,3.1,Nausea,Mild,No,Not Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0353,GLYCO-01,SUBJ-089,S002,Bengaluru,Baseline,2026-01-14,60,Female,DrugX 5 mg,5,9.2,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0354,GLYCO-01,SUBJ-089,S002,Bengaluru,Week 4,2026-02-10,60,Female,DrugX 5 mg,5,9.2,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0355,GLYCO-01,SUBJ-089,S002,Bengaluru,Week 8,2026-03-11,60,Female,DrugX 5 mg,5,9.2,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0356,GLYCO-01,SUBJ-089,S002,Bengaluru,Week 12,2026-04-08,60,Female,DrugX 5 mg,5,9.2,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0357,GLYCO-01,SUBJ-090,S003,Chennai,Baseline,2026-01-08,62,Male,DrugX 10 mg,10,8.6,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0358,GLYCO-01,SUBJ-090,S003,Chennai,Week 4,2026-02-05,62,Male,DrugX 10 mg,10,8.6,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0359,GLYCO-01,SUBJ-090,S003,Chennai,Week 8,2026-03-01,62,Male,DrugX 10 mg,10,8.6,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0360,GLYCO-01,SUBJ-090,S003,Chennai,Week 12,2026-03-29,62,Male,DrugX 10 mg,10,8.6,7.3,Headache,Severe,No,Recovering,No,Complete,OK,OK,4,OK,OK
+REC-0361,GLYCO-01,SUBJ-091,S001,Hyderabad,Baseline,2026-01-17,71,Male,Placebo,0,10.2,10.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0362,GLYCO-01,SUBJ-091,S001,Hyderabad,Week 4,2026-02-14,71,Male,Placebo,0,10.2,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0363,GLYCO-01,SUBJ-091,S001,Hyderabad,Week 8,2026-03-13,71,Male,Placebo,0,10.2,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0364,GLYCO-01,SUBJ-091,S001,Hyderabad,Week 12,2026-04-09,71,Male,Placebo,0,10.2,10.1,None,Not Applicable,No,Not Applicable,N,Complete,OK,OK,4,OK,OK
+REC-0365,GLYCO-01,SUBJ-092,S002,Bengaluru,Baseline,2026-01-21,64,Male,DrugX 5 mg,5,8.3,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0366,GLYCO-01,SUBJ-092,S002,Bengaluru,Week 4,2026-02-19,64,Male,DrugX 5 mg,5,8.3,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0367,GLYCO-01,SUBJ-092,S002,Bengaluru,Week 8,2026-03-20,64,Male,DrugX 5 mg,5,8.3,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0368,GLYCO-01,SUBJ-092,S002,Bengaluru,Week 12,2026-04-14,64,Male,DrugX 5 mg,5,8.3,7.3,Fatigue,,No,Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0369,GLYCO-01,SUBJ-093,S003,Chennai,Baseline,2026-01-20,58,Female,DrugX 10 mg,10,7.9,7.9,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0370,GLYCO-01,SUBJ-093,S003,Chennai,Week 4,2026-02-18,58,Female,DrugX 10 mg,10,7.9,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0371,GLYCO-01,SUBJ-093,S003,Chennai,Week 8,2026-03-19,58,Female,DrugX 10 mg,10,7.9,6.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0372,GLYCO-01,SUBJ-093,S003,Chennai,Week 12,2026-04-17,58,Female,DrugX 10 mg,10,7.9,6.5,Fatigue,Moderate,No,Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0373,GLYCO-01,SUBJ-094,S001,Hyderabad,Baseline,2026-01-17,61,Female,Placebo,0,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0374,GLYCO-01,SUBJ-094,S001,Hyderabad,Week 4,2026-02-14,61,Female,Placebo,0,10.0,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0375,GLYCO-01,SUBJ-094,S001,Hyderabad,Week 8,2026-03-12,61,Female,Placebo,0,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0376,GLYCO-01,SUBJ-094,S001,Hyderabad,Week 12,2026-04-08,61,Female,Placebo,0,10.0,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0377,GLYCO-01,SUBJ-095,S002,Bengaluru,Baseline,2026-01-09,45,Male,DrugX 5 mg,5,8.2,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0378,GLYCO-01,SUBJ-095,S002,Bengaluru,Week 4,2026-02-06,45,Male,DrugX 5 mg,5,8.2,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0379,GLYCO-01,SUBJ-095,S002,Bengaluru,Week 8,2026-03-10,45,Male,DrugX 5 mg,5,8.2,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0380,GLYCO-01,SUBJ-095,S002,Bengaluru,Week 12,2026-04-07,45,Male,DrugX 5 mg,5,8.2,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0381,GLYCO-01,SUBJ-096,S003,Chennai,Baseline,2026-01-09,30,Female,DrugX 10 mg,10,10.1,10.1,Headache,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0382,GLYCO-01,SUBJ-096,S003,Chennai,Week 4,2026-02-07,30,Female,DrugX 10 mg,10,10.1,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0383,GLYCO-01,SUBJ-096,S003,Chennai,Week 8,2026-03-08,30,Female,DrugX 10 mg,10,10.1,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0384,GLYCO-01,SUBJ-096,S003,Chennai,Week 12,,30,Female,DrugX 10 mg,10,10.1,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,Missing Date,OK
+REC-0385,GLYCO-01,SUBJ-097,S001,Hyderabad,Baseline,2026-01-12,60,Male,Placebo,0,8.3,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0386,GLYCO-01,SUBJ-097,S001,Hyderabad,Week 4,2026-02-07,60,Male,Placebo,0,8.3,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0387,GLYCO-01,SUBJ-097,S001,Hyderabad,Week 8,2026-03-08,60,Male,Placebo,0,8.3,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0388,GLYCO-01,SUBJ-097,S001,Hyderabad,Week 12,2026-04-06,60,Male,Placebo,0,8.3,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0389,GLYCO-01,SUBJ-098,S002,Bengaluru,Baseline,2026-01-19,61,Male,DrugX 5 mg,5,7.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0390,GLYCO-01,SUBJ-098,S002,Bengaluru,Week 4,2026-02-17,61,Male,DrugX 5 mg,5,7.7,7.3,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0391,GLYCO-01,SUBJ-098,S002,Bengaluru,Week 8,2026-03-18,61,Male,DrugX 5 mg,5,7.7,7.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0392,GLYCO-01,SUBJ-098,S002,Bengaluru,Week 12,2026-04-11,61,Male,DrugX 5 mg,5,7.7,6.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0393,GLYCO-01,SUBJ-099,S003,Chennai,Baseline,2026-01-19,30,Female,DrugX 10 mg,10,8.6,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0394,GLYCO-01,SUBJ-099,S003,Chennai,Week 4,2026-02-20,30,Female,DrugX 10 mg,10,8.6,8.3,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,2,OK,OK
+REC-0395,GLYCO-01,SUBJ-099,S003,Chennai,Week 8,2026-03-19,30,Female,DrugX 10 mg,10,8.6,7.5,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0396,GLYCO-01,SUBJ-099,S003,Chennai,Week 12,2026-04-13,30,Female,DrugX 10 mg,10,8.6,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0397,GLYCO-01,SUBJ-100,S001,Hyderabad,Baseline,2026-01-07,41,Female,Placebo,0,8.8,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0398,GLYCO-01,SUBJ-100,S001,Hyderabad,Week 4,2026-02-05,41,Female,Placebo,0,8.8,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0399,GLYCO-01,SUBJ-100,S001,Hyderabad,Week 8,2026-03-07,41,Female,Placebo,0,8.8,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0400,GLYCO-01,SUBJ-100,S001,Hyderabad,Week 12,2026-03-31,41,Female,Placebo,0,8.8,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0401,GLYCO-01,SUBJ-101,S002,Bengaluru,Baseline,2026-01-20,54,Male,DrugX 5 mg,5,8.6,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0402,GLYCO-01,SUBJ-101,S002,Bengaluru,Week 4,2026-02-20,54,Male,DrugX 5 mg,5,8.6,8.4,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0403,GLYCO-01,SUBJ-101,S002,Bengaluru,Week 8,2026-03-21,54,Male,DrugX 5 mg,5,8.6,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0404,GLYCO-01,SUBJ-101,S002,Bengaluru,Week 12,2026-04-18,54,Male,DrugX 5 mg,5,8.6,7.8,Headache,Moderate,No,Recovering,No,Complete,OK,OK,4,OK,OK
+REC-0405,GLYCO-01,SUBJ-102,S003,Chennai,Baseline,2026-01-14,32,Female,DrugX 10 mg,10,7.2,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0406,GLYCO-01,SUBJ-102,S003,Chennai,Week 4,2026-02-13,32,Female,DrugX 10 mg,10,7.2,6.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0407,GLYCO-01,SUBJ-102,S003,Chennai,Week 8,2026-03-13,32,Female,DrugX 10 mg,10,7.2,6.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0408,GLYCO-01,SUBJ-102,S003,Chennai,Week 12,2026-04-07,32,Female,DrugX 10 mg,10,7.2,5.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0409,GLYCO-01,SUBJ-103,S001,Hyderabad,Baseline,2026-01-26,34,Male,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0410,GLYCO-01,SUBJ-103,S001,Hyderabad,Week 4,2026-02-19,34,Male,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0411,GLYCO-01,SUBJ-103,S001,Hyderabad,Week 8,2026-03-23,34,Male,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0412,GLYCO-01,SUBJ-103,S001,Hyderabad,Week 12,2026-04-16,34,Male,Placebo,0,9.5,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0413,GLYCO-01,SUBJ-104,S002,Bengaluru,Baseline,2026-01-16,47,Female,DrugX 5 mg,5,9.3,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0414,GLYCO-01,SUBJ-104,S002,Bengaluru,Week 4,2026-02-12,47,Female,DrugX 5 mg,10,9.3,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,Mismatch,2,OK,OK
+REC-0415,GLYCO-01,SUBJ-104,S002,Bengaluru,Week 8,2026-03-12,47,Female,DrugX 5 mg,5,9.3,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0416,GLYCO-01,SUBJ-104,S002,Bengaluru,Week 12,2026-04-12,47,Female,DrugX 5 mg,5,9.3,8.3,Fatigue,Mild,No,Not Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0417,GLYCO-01,SUBJ-105,S003,Chennai,Baseline,2026-01-16,30,Male,DrugX 10 mg,10,8.4,8.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0418,GLYCO-01,SUBJ-105,S003,Chennai,Week 4,2026-02-14,30,Male,DrugX 10 mg,10,8.4,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0419,GLYCO-01,SUBJ-105,S003,Chennai,Week 8,2026-03-15,30,Male,DrugX 10 mg,10,8.4,7.4,Nausea,Mild,No,Recovering,No,Complete,OK,OK,3,OK,OK
+REC-0420,GLYCO-01,SUBJ-105,S003,Chennai,Week 12,2026-04-12,30,Male,DrugX 10 mg,10,8.4,7.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0421,GLYCO-01,SUBJ-106,S001,Hyderabad,Baseline,2026-01-06,42,Male,Placebo,0,7.6,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0422,GLYCO-01,SUBJ-106,S001,Hyderabad,Week 4,2026-02-07,42,Male,Placebo,0,7.6,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0423,GLYCO-01,SUBJ-106,S001,Hyderabad,Week 8,2026-03-07,42,Male,Placebo,0,7.6,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0424,GLYCO-01,SUBJ-106,S001,Hyderabad,Week 12,2026-04-02,42,Male,Placebo,0,7.6,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0425,GLYCO-01,SUBJ-107,S002,Bengaluru,Baseline,2026-01-23,70,Male,DrugX 5 mg,5,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0426,GLYCO-01,SUBJ-107,S002,Bengaluru,Week 4,2026-02-21,70,Male,DrugX 5 mg,5,9.5,9.2,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0427,GLYCO-01,SUBJ-107,S002,Bengaluru,Week 8,2026-03-19,70,Male,DrugX 5 mg,5,9.5,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0428,GLYCO-01,SUBJ-107,S002,Bengaluru,Week 12,2026-04-16,70,Male,DrugX 5 mg,5,9.5,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0429,GLYCO-01,SUBJ-108,S003,Chennai,Baseline,2026-01-08,56,Male,DrugX 10 mg,10,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0430,GLYCO-01,SUBJ-108,S003,Chennai,Week 4,2026-02-07,56,Male,DrugX 10 mg,10,9.1,8.8,Fatigue,Mild,No,Recovering,No,Complete,OK,OK,2,OK,OK
+REC-0431,GLYCO-01,SUBJ-108,S003,Chennai,Week 8,2026-03-07,56,Male,DrugX 10 mg,10,9.1,8.2,None,Not Applicable,No,Not Applicable,yes,Complete,OK,OK,3,OK,OK
+REC-0432,GLYCO-01,SUBJ-108,S003,Chennai,Week 12,2026-04-05,56,Male,DrugX 10 mg,10,9.1,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0433,GLYCO-01,SUBJ-109,S001,Hyderabad,Baseline,2026-01-08,72,Male,Placebo,0,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0434,GLYCO-01,SUBJ-109,S001,Hyderabad,Week 4,2026-02-08,72,Male,Placebo,0,9.1,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0435,GLYCO-01,SUBJ-109,S001,Hyderabad,Week 8,2026-03-05,72,Male,Placebo,0,9.1,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0436,GLYCO-01,SUBJ-109,S001,Hyderabad,Week 12,2026-04-06,72,Male,Placebo,0,9.1,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0437,GLYCO-01,SUBJ-110,S002,Bengaluru,Baseline,2026-01-17,62,Female,DrugX 5 mg,5,10.2,10.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0438,GLYCO-01,SUBJ-110,S002,Bengaluru,Week 4,2026-02-11,62,Female,DrugX 5 mg,5,10.2,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0439,GLYCO-01,SUBJ-110,S002,Bengaluru,Week 8,2026-03-14,62,Female,DrugX 5 mg,5,10.2,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0440,GLYCO-01,SUBJ-110,S002,Bengaluru,Week 12,2026-04-11,62,Female,DrugX 5 mg,5,10.2,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0441,GLYCO-01,SUBJ-111,S003,Chennai,Baseline,2026-01-09,51,Female,DrugX 10 mg,10,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0442,GLYCO-01,SUBJ-111,S003,Chennai,Week 4,2026-02-07,51,Female,DrugX 10 mg,10,10.0,9.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0443,GLYCO-01,SUBJ-111,S003,Chennai,Week 8,2026-03-06,51,Female,DrugX 10 mg,10,10.0,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0444,GLYCO-01,SUBJ-111,S003,Chennai,Week 12,2026-04-03,51,Female,DrugX 10 mg,10,10.0,8.6,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,4,OK,OK
+REC-0445,GLYCO-01,SUBJ-112,S001,Hyderabad,Baseline,2026-01-25,47,Female,Placebo,0,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0446,GLYCO-01,SUBJ-112,S001,Hyderabad,Week 4,2026-02-21,47,Female,Placebo,0,7.5,7.3,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0447,GLYCO-01,SUBJ-112,S001,Hyderabad,Week 8,2026-03-20,47,Female,Placebo,0,7.5,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0448,GLYCO-01,SUBJ-112,S001,Hyderabad,Week 12,2026-04-18,47,Female,Placebo,0,7.5,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0449,GLYCO-01,SUBJ-113,S002,Bengaluru,Baseline,2026-01-08,69,Female,DrugX 5 mg,5,8.1,8.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0450,GLYCO-01,SUBJ-113,S002,Bengaluru,Week 4,2026-02-05,69,Female,DrugX 5 mg,5,8.1,,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0451,GLYCO-01,SUBJ-113,S002,Bengaluru,Week 8,2026-03-05,69,Female,DrugX 5 mg,5,8.1,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0452,GLYCO-01,SUBJ-113,S002,Bengaluru,Week 12,2026-04-02,69,Female,DrugX 5 mg,5,8.1,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0453,GLYCO-01,SUBJ-114,S003,Chennai,Baseline,2026-01-17,58,Female,DrugX 10 mg,10,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0454,GLYCO-01,SUBJ-114,S003,Chennai,Week 4,2026-02-15,58,Female,DrugX 10 mg,10,10.1,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0455,GLYCO-01,SUBJ-114,S003,Chennai,Week 8,2026-03-14,58,Female,DrugX 10 mg,10,10.1,9.2,Headache,Moderate,No,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0456,GLYCO-01,SUBJ-114,S003,Chennai,Week 12,2026-04-12,58,Female,DrugX 10 mg,10,10.1,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0457,GLYCO-01,SUBJ-115,S001,Hyderabad,Baseline,2026-01-25,61,Female,Placebo,0,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0458,GLYCO-01,SUBJ-115,S001,Hyderabad,Week 4,2026-02-18,61,Female,Placebo,0,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0459,GLYCO-01,SUBJ-115,S001,Hyderabad,Week 8,2026-03-19,61,Female,Placebo,0,7.5,,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0460,GLYCO-01,SUBJ-115,S001,Hyderabad,Week 12,2026-04-15,61,Female,Placebo,0,7.5,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0461,GLYCO-01,SUBJ-116,S002,Bengaluru,Baseline,2026-01-23,67,Male,DrugX 5 mg,5,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0462,GLYCO-01,SUBJ-116,S002,Bengaluru,Week 4,2026-02-20,67,Male,DrugX 5 mg,5,9.1,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0463,GLYCO-01,SUBJ-116,S002,Bengaluru,Week 8,2026-03-20,67,Male,DrugX 5 mg,5,9.1,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0464,GLYCO-01,SUBJ-116,S002,Bengaluru,Week 12,2026-04-20,67,Male,DrugX 5 mg,5,9.1,8.4,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,4,OK,OK
+REC-0465,GLYCO-01,SUBJ-117,S003,Chennai,Baseline,2026-01-12,56,Female,DrugX 10 mg,10,9.8,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0466,GLYCO-01,SUBJ-117,S003,Chennai,Week 4,2026-02-09,56,Female,DrugX 10 mg,10,9.8,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0467,GLYCO-01,SUBJ-117,S003,Chennai,Week 8,2026-03-11,56,Female,DrugX 10 mg,10,9.8,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0468,GLYCO-01,SUBJ-117,S003,Chennai,Week 12,2026-04-05,56,Female,DrugX 10 mg,10,9.8,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0469,GLYCO-01,SUBJ-118,S001,Hyderabad,Baseline,2026-01-19,47,Male,Placebo,0,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0470,GLYCO-01,SUBJ-118,S001,Hyderabad,Week 4,2026-02-14,47,Male,Placebo,0,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0471,GLYCO-01,SUBJ-118,S001,Hyderabad,Week 8,2026-03-14,47,Male,Placebo,0,10.1,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0472,GLYCO-01,SUBJ-118,S001,Hyderabad,Week 12,2026-04-14,47,Male,Placebo,0,10.1,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0473,GLYCO-01,SUBJ-119,S002,Bengaluru,Baseline,2026-01-13,66,Male,DrugX 5 mg,5,9.9,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0474,GLYCO-01,SUBJ-119,S002,Bengaluru,Week 4,2026-02-13,66,Male,DrugX 5 mg,5,9.9,9.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0475,GLYCO-01,SUBJ-119,S002,Bengaluru,Week 8,2026-03-13,66,Male,DrugX 5 mg,5,9.9,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0476,GLYCO-01,SUBJ-119,S002,Bengaluru,Week 12,2026-04-08,66,Male,DrugX 5 mg,5,9.9,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0477,GLYCO-01,SUBJ-120,S003,Chennai,Baseline,2026-01-26,35,Male,DrugX 10 mg,10,7.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0478,GLYCO-01,SUBJ-120,S003,Chennai,Week 4,2026-02-21,35,Male,DrugX 10 mg,10,7.7,7.2,Headache,Mild,No,Recovering,No,Complete,OK,OK,2,OK,OK
+REC-0479,GLYCO-01,SUBJ-120,S003,Chennai,Week 8,2026-03-24,35,Male,DrugX 10 mg,10,7.7,6.9,Rash,Mild,No,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0480,GLYCO-01,SUBJ-120,S003,Chennai,Week 12,2026-04-18,35,Male,DrugX 10 mg,10,7.7,6.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0481,GLYCO-01,SUBJ-121,S001,Hyderabad,Baseline,2026-01-15,36,Male,Placebo,0,9.8,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0482,GLYCO-01,SUBJ-121,S001,Hyderabad,Week 4,2026-02-12,36,Male,Placebo,0,9.8,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0483,GLYCO-01,SUBJ-121,S001,Hyderabad,Week 8,2026-03-15,36,Male,Placebo,0,9.8,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0484,GLYCO-01,SUBJ-121,S001,Hyderabad,Week 12,2026-04-09,36,Male,Placebo,0,9.8,9.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0485,GLYCO-01,SUBJ-122,S002,Bengaluru,Baseline,2026-01-09,36,Female,DrugX 5 mg,5,9.0,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0486,GLYCO-01,SUBJ-122,S002,Bengaluru,Week 4,2026-02-04,36,Female,DrugX 5 mg,5,9.0,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0487,GLYCO-01,SUBJ-122,S002,Bengaluru,Week 8,2026-03-07,36,Female,DrugX 5 mg,5,9.0,8.4,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,3,OK,OK
+REC-0488,GLYCO-01,SUBJ-122,S002,Bengaluru,Week 12,2026-04-02,36,Female,DrugX 5 mg,5,9.0,19.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0489,GLYCO-01,SUBJ-123,S003,Chennai,Baseline,2026-01-10,71,Female,DrugX 10 mg,10,8.7,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0490,GLYCO-01,SUBJ-123,S003,Chennai,Week 4,2026-02-07,71,Female,DrugX 10 mg,10,8.7,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0491,GLYCO-01,SUBJ-123,S003,Chennai,Week 8,2026-03-08,71,Female,DrugX 10 mg,10,8.7,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0492,GLYCO-01,SUBJ-123,S003,Chennai,Week 12,2026-04-05,71,Female,DrugX 10 mg,10,8.7,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0493,GLYCO-01,SUBJ-124,S001,Hyderabad,Baseline,2026-01-11,34,Female,Placebo,0,7.8,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0494,GLYCO-01,SUBJ-124,S001,Hyderabad,Week 4,2026-02-10,16,Female,Placebo,0,7.8,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0495,GLYCO-01,SUBJ-124,S001,Hyderabad,Week 8,2026-03-08,34,Female,Placebo,0,7.8,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0496,GLYCO-01,SUBJ-124,S001,Hyderabad,Week 12,2026-04-05,34,Female,Placebo,0,7.8,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0497,GLYCO-01,SUBJ-125,S002,Bengaluru,Baseline,2026-01-13,55,Female,DrugX 5 mg,5,9.3,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0498,GLYCO-01,SUBJ-125,S002,Bengaluru,Week 4,2026-02-12,55,Female,DrugX 5 mg,5,9.3,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0499,GLYCO-01,SUBJ-125,S002,Bengaluru,Week 8,2026-03-10,55,Female,DrugX 5 mg,5,9.3,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0500,GLYCO-01,SUBJ-125,S002,Bengaluru,Week 12,2026-04-08,55,Female,DrugX 5 mg,5,9.3,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0501,GLYCO-01,SUBJ-126,S003,Chennai,Baseline,2026-01-06,38,Male,DrugX 10 mg,10,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0502,GLYCO-01,SUBJ-126,S003,Chennai,Week 4,2026-02-07,38,Male,DrugX 10 mg,10,9.5,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0503,GLYCO-01,SUBJ-126,S003,Chennai,Week 8,2026-03-06,38,Male,DrugX 10 mg,10,9.5,8.6,Fatigue,Mild,No,Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0504,GLYCO-01,SUBJ-126,S003,Chennai,Week 12,2026-04-04,38,Male,DrugX 10 mg,10,9.5,8.2,Rash,Mild,No,Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0505,GLYCO-01,SUBJ-127,S001,Hyderabad,Baseline,2026-01-15,32,Male,Placebo,0,8.3,8.3,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0506,GLYCO-01,SUBJ-127,S001,Hyderabad,Week 4,2026-02-11,32,Male,Placebo,0,8.3,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0507,GLYCO-01,SUBJ-127,S001,Hyderabad,Week 8,2026-03-13,32,Male,Placebo,0,8.3,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0508,GLYCO-01,SUBJ-127,S001,Hyderabad,Week 12,2026-04-12,32,Male,Placebo,0,8.3,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0509,GLYCO-01,SUBJ-128,S002,Bengaluru,Baseline,2026-01-18,63,Female,DrugX 5 mg,5,7.4,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0510,GLYCO-01,SUBJ-128,S002,Bengaluru,Week 4,2026-02-14,63,Female,DrugX 5 mg,5,7.4,7.1,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,2,OK,OK
+REC-0511,GLYCO-01,SUBJ-128,S002,Bengaluru,Week 8,2026-01-10,63,Female,DrugX 5 mg,5,7.4,6.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,Date Error,OK
+REC-0512,GLYCO-01,SUBJ-128,S002,Bengaluru,Week 12,2026-04-12,63,Female,DrugX 5 mg,5,7.4,6.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0513,GLYCO-01,SUBJ-129,S003,Chennai,Baseline,2026-01-03,45,Female,DrugX 10 mg,10,10.0,10.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0514,GLYCO-01,SUBJ-129,S003,Chennai,Week 4,2026-01-31,45,Female,DrugX 10 mg,10,10.0,9.7,Rash,Mild,No,Not Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0515,GLYCO-01,SUBJ-129,S003,Chennai,Week 8,2026-03-04,45,Female,DrugX 10 mg,10,10.0,9.3,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0516,GLYCO-01,SUBJ-129,S003,Chennai,Week 12,2026-03-29,45,Female,DrugX 10 mg,10,10.0,8.7,Nausea,Mild,Yes,Not Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0517,GLYCO-01,SUBJ-130,S001,Hyderabad,Baseline,2026-01-22,59,Female,Placebo,0,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0518,GLYCO-01,SUBJ-130,S001,Hyderabad,Week 4,2026-02-22,59,Female,Placebo,0,7.5,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0519,GLYCO-01,SUBJ-130,S001,Hyderabad,Week 8,2026-03-20,59,Female,Placebo,0,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0520,GLYCO-01,SUBJ-130,S001,Hyderabad,Week 12,2026-04-17,59,Female,Placebo,0,7.5,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0521,GLYCO-01,SUBJ-131,S002,Bengaluru,Baseline,2026-01-10,67,Female,DrugX 5 mg,5,7.5,7.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0522,GLYCO-01,SUBJ-131,S002,Bengaluru,Week 4,2026-02-08,67,Female,DrugX 5 mg,5,7.5,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0523,GLYCO-01,SUBJ-131,S002,Bengaluru,Week 8,2026-03-04,67,Female,DrugX 5 mg,5,7.5,6.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0524,GLYCO-01,SUBJ-131,S002,Bengaluru,Week 12,,67,Female,DrugX 5 mg,5,7.5,6.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,Missing Date,OK
+REC-0525,GLYCO-01,SUBJ-132,S003,Chennai,Baseline,2026-01-17,45,Male,DrugX 10 mg,10,8.7,8.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,1,First Visit,OK
+REC-0526,GLYCO-01,SUBJ-132,S003,Chennai,Week 4,2026-02-12,45,Male,DrugX 10 mg,10,8.7,8.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0527,GLYCO-01,SUBJ-132,S003,Chennai,Week 8,2026-03-12,45,Male,DrugX 10 mg,10,8.7,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0528,GLYCO-01,SUBJ-132,S003,Chennai,Week 12,2026-04-10,45,Male,DrugX 10 mg,10,8.7,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0529,GLYCO-01,SUBJ-133,S001,Hyderabad,Baseline,2026-01-21,71,Female,Placebo,0,9.0,9.0,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,1,First Visit,OK
+REC-0530,GLYCO-01,SUBJ-133,S001,Hyderabad,Week 4,2026-02-21,71,Female,Placebo,5,9.0,9.0,Dizziness,Mild,No,Recovering,No,Complete,OK,Mismatch,2,OK,OK
+REC-0531,GLYCO-01,SUBJ-133,S001,Hyderabad,Week 8,2026-03-21,71,Female,Placebo,0,9.0,9.0,None,Not Applicable,No,Not Applicable,Yes,Complete,OK,OK,3,OK,OK
+REC-0532,GLYCO-01,SUBJ-133,S001,Hyderabad,Week 12,2026-04-16,71,Female,Placebo,0,9.0,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0533,GLYCO-01,SUBJ-134,S002,Bengaluru,Baseline,2026-01-23,39,Female,DrugX 5 mg,5,9.1,9.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0534,GLYCO-01,SUBJ-134,S002,Bengaluru,Week 4,2026-02-23,39,Female,DrugX 5 mg,5,9.1,8.8,Diarrhoea,Mild,No,Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0535,GLYCO-01,SUBJ-134,S002,Bengaluru,Week 8,2026-03-20,39,Female,DrugX 5 mg,5,9.1,8.6,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0536,GLYCO-01,SUBJ-134,S002,Bengaluru,Week 12,2026-04-18,39,Female,DrugX 5 mg,5,9.1,8.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0537,GLYCO-01,SUBJ-135,S003,Chennai,Baseline,2026-01-13,50,Male,DrugX 10 mg,10,7.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0538,GLYCO-01,SUBJ-135,S003,Chennai,Week 4,2026-02-10,50,Male,DrugX 10 mg,10,7.7,7.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0539,GLYCO-01,SUBJ-135,S003,Chennai,Week 8,2026-03-09,50,Male,DrugX 10 mg,10,7.7,7.0,Rash,Mild,No,Not Recovered,No,Complete,OK,OK,3,OK,OK
+REC-0540,GLYCO-01,SUBJ-135,S003,Chennai,Week 12,2026-04-05,50,Male,DrugX 10 mg,10,7.7,6.4,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,4,OK,OK
+REC-0541,GLYCO-01,SUBJ-136,S001,Hyderabad,Baseline,2026-01-12,54,Male,Placebo,0,7.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0542,GLYCO-01,SUBJ-136,S001,Hyderabad,Week 4,2026-02-07,54,Male,Placebo,0,7.7,7.8,Rash,Mild,No,Not Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0543,GLYCO-01,SUBJ-136,S001,Hyderabad,Week 8,2026-03-06,54,Male,Placebo,0,7.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0544,GLYCO-01,SUBJ-136,S001,Hyderabad,Week 12,2026-04-03,54,Male,Placebo,0,7.7,7.5,Nausea,Mild,No,Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0545,GLYCO-01,SUBJ-137,S002,Bengaluru,Baseline,2026-01-08,69,Female,DrugX 5 mg,5,8.2,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0546,GLYCO-01,SUBJ-137,S002,Bengaluru,Week 4,2026-02-06,69,Female,DrugX 5 mg,5,8.2,7.8,Rash,Moderate,No,Recovered,No,Complete,OK,OK,2,OK,OK
+REC-0547,GLYCO-01,SUBJ-137,S002,Bengaluru,Week 8,2026-03-04,69,Female,DrugX 5 mg,5,8.2,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0548,GLYCO-01,SUBJ-137,S002,Bengaluru,Week 12,2026-04-03,69,Female,DrugX 5 mg,5,8.2,2.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0549,GLYCO-01,SUBJ-138,S003,Chennai,Baseline,2026-01-27,70,Male,DrugX 10 mg,10,8.2,8.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0550,GLYCO-01,SUBJ-138,S003,Chennai,Week 4,2026-02-22,70,Male,DrugX 10 mg,10,8.2,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0551,GLYCO-01,SUBJ-138,S003,Chennai,Week 8,2026-03-22,70,Male,DrugX 10 mg,10,8.2,7.2,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0552,GLYCO-01,SUBJ-138,S003,Chennai,Week 12,2026-04-20,70,Male,DrugX 10 mg,10,8.2,7.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0553,GLYCO-01,SUBJ-139,S001,Hyderabad,Baseline,2026-01-26,50,Female,Placebo,0,8.9,8.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0554,GLYCO-01,SUBJ-139,S001,Hyderabad,Week 4,2026-02-21,50,Female,Placebo,0,8.9,8.8,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0555,GLYCO-01,SUBJ-139,S001,Hyderabad,Week 8,2026-03-22,50,Female,Placebo,0,8.9,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0556,GLYCO-01,SUBJ-139,S001,Hyderabad,Week 12,2026-04-19,50,Female,Placebo,0,8.9,8.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0557,GLYCO-01,SUBJ-140,S002,Bengaluru,Baseline,2026-01-19,56,Female,DrugX 5 mg,5,8.7,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0558,GLYCO-01,SUBJ-140,S002,Bengaluru,Week 4,2026-02-16,56,Female,DrugX 5 mg,5,8.7,8.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0559,GLYCO-01,SUBJ-140,S002,Bengaluru,Week 8,2026-03-16,56,Female,DrugX 5 mg,5,8.7,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0560,GLYCO-01,SUBJ-140,S002,Bengaluru,Week 12,2026-04-10,56,Female,DrugX 5 mg,5,8.7,7.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0561,GLYCO-01,SUBJ-141,S003,Chennai,Baseline,2026-01-17,65,Female,DrugX 10 mg,10,9.0,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0562,GLYCO-01,SUBJ-141,S003,Chennai,Week 4,2026-02-13,65,Female,DrugX 10 mg,10,9.0,8.7,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0563,GLYCO-01,SUBJ-141,S003,Chennai,Week 8,2026-03-10,65,Female,DrugX 10 mg,10,9.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0564,GLYCO-01,SUBJ-141,S003,Chennai,Week 12,2026-04-11,65,Female,DrugX 10 mg,10,9.0,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0565,GLYCO-01,SUBJ-142,S001,Hyderabad,Baseline,2026-01-07,66,Male,Placebo,0,7.4,7.4,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0566,GLYCO-01,SUBJ-142,S001,Hyderabad,Week 4,2026-02-08,66,Male,Placebo,0,7.4,7.3,Nausea,Mild,No,Recovering,No,Complete,OK,OK,2,OK,OK
+REC-0567,GLYCO-01,SUBJ-142,S001,Hyderabad,Week 8,2026-03-04,66,Male,Placebo,0,7.4,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0568,GLYCO-01,SUBJ-142,S001,Hyderabad,Week 12,2026-04-01,66,Male,Placebo,0,7.4,7.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0569,GLYCO-01,SUBJ-143,S002,Bengaluru,Baseline,2026-01-07,41,Male,DrugX 5 mg,5,8.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0570,GLYCO-01,SUBJ-143,S002,Bengaluru,Week 4,2026-02-05,41,Male,DrugX 5 mg,5,8.0,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0571,GLYCO-01,SUBJ-143,S002,Bengaluru,Week 8,2026-03-03,41,Male,DrugX 5 mg,5,8.0,7.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0572,GLYCO-01,SUBJ-143,S002,Bengaluru,Week 12,2026-03-29,41,Male,DrugX 5 mg,5,8.0,7.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0573,GLYCO-01,SUBJ-144,S009,Chennai,Baseline,2026-01-21,60,Female,DrugX 10 mg,10,8.1,8.1,None,Not Applicable,No,Not Applicable,No,Complete,Mismatch,OK,1,First Visit,OK
+REC-0574,GLYCO-01,SUBJ-144,S003,Chennai,Week 4,2026-02-19,60,Female,DrugX 10 mg,10,8.1,7.7,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,2,OK,OK
+REC-0575,GLYCO-01,SUBJ-144,S003,Chennai,Week 8,,60,Female,DrugX 10 mg,10,8.1,,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,Missing Date,OK
+REC-0576,GLYCO-01,SUBJ-144,S003,Chennai,Week 12,2026-04-13,60,Female,DrugX 10 mg,10,8.1,6.9,Diarrhoea,Mild,No,Not Recovered,No,Pending Review,OK,OK,4,Previous Date Missing,OK
+REC-0577,GLYCO-01,SUBJ-145,S001,Hyderabad,Baseline,2026-01-22,70,Female,Placebo,0,8.0,8.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0578,GLYCO-01,SUBJ-145,S001,Hyderabad,Week 4,2026-02-23,70,Female,Placebo,0,8.0,,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0579,GLYCO-01,SUBJ-145,S001,Hyderabad,Week 8,2026-03-23,70,Female,Placebo,0,8.0,7.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0580,GLYCO-01,SUBJ-145,S001,Hyderabad,Week 12,2026-04-20,70,Female,Placebo,0,8.0,7.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0581,GLYCO-01,SUBJ-146,S002,Bengaluru,Baseline,2026-01-14,66,Female,DrugX 5 mg,5,9.8,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0582,GLYCO-01,SUBJ-146,S002,Bengaluru,Week 4,2026-02-12,66,Female,DrugX 5 mg,5,9.8,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0583,GLYCO-01,SUBJ-146,S002,Bengaluru,Week 8,2026-03-13,66,Female,DrugX 5 mg,5,9.8,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0584,GLYCO-01,SUBJ-146,S002,Bengaluru,Week 12,2026-04-08,66,Female,DrugX 5 mg,5,9.8,9.0,Diarrhoea,,No,Recovered,No,Complete,OK,OK,4,OK,OK
+REC-0585,GLYCO-01,SUBJ-147,S003,Chennai,Baseline,2026-01-18,49,Male,DrugX 10 mg,10,9.8,9.8,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0586,GLYCO-01,SUBJ-147,S003,Chennai,Week 4,2026-02-17,49,Male,DrugX 10 mg,10,9.8,2.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0587,GLYCO-01,SUBJ-147,S003,Chennai,Week 8,2026-03-18,49,Male,DrugX 10 mg,10,9.8,8.9,Diarrhoea,Mild,No,Recovering,No,Complete,OK,OK,3,OK,OK
+REC-0588,GLYCO-01,SUBJ-147,S003,Chennai,Week 12,2026-04-14,49,Male,DrugX 10 mg,10,9.8,8.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0589,GLYCO-01,SUBJ-148,S001,Hyderabad,Baseline,2026-01-11,62,Male,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0590,GLYCO-01,SUBJ-148,S001,Hyderabad,Week 4,2026-02-05,62,Male,Placebo,0,9.5,9.6,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0591,GLYCO-01,SUBJ-148,S001,Hyderabad,Week 8,2026-03-04,62,Male,Placebo,0,9.5,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0592,GLYCO-01,SUBJ-148,S001,Hyderabad,Week 12,2026-04-05,62,Male,Placebo,0,9.5,9.2,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0593,GLYCO-01,SUBJ-149,S002,Bengaluru,Baseline,2026-01-11,61,Male,DrugX 5 mg,5,10.1,10.1,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0594,GLYCO-01,SUBJ-149,S002,Bengaluru,Week 4,2026-02-06,61,Male,DrugX 5 mg,5,10.1,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0595,GLYCO-01,SUBJ-149,S002,Bengaluru,Week 8,2026-03-05,61,Male,DrugX 5 mg,5,10.1,9.5,None,Not Applicable,No,Not Applicable,No,Pending Review,OK,OK,3,OK,OK
+REC-0596,GLYCO-01,SUBJ-149,S002,Bengaluru,Week 12,2026-04-03,61,Male,DrugX 5 mg,5,10.1,9.3,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
+REC-0597,GLYCO-01,SUBJ-150,S003,Chennai,Baseline,2026-01-19,31,Female,DrugX 10 mg,10,9.9,9.9,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,1,First Visit,OK
+REC-0598,GLYCO-01,SUBJ-150,S003,Chennai,Week 4,2026-02-17,31,Female,DrugX 10 mg,10,9.9,9.5,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,2,OK,OK
+REC-0599,GLYCO-01,SUBJ-150,S003,Chennai,Week 8,2026-03-17,31,Female,DrugX 10 mg,10,9.9,9.0,None,Not Applicable,No,Not Applicable,No,Complete,OK,OK,3,OK,OK
+REC-0600,GLYCO-01,SUBJ-150,S003,Chennai,Week 12,2026-04-15,31,Female,DrugX 10 mg,10,9.9,8.5,Headache,Not Applicable,No,Not Applicable,No,Complete,OK,OK,4,OK,OK
