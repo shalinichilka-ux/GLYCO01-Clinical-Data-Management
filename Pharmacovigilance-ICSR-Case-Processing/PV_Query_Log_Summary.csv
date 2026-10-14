@@ -1,0 +1,17 @@
+Query_ID,Case_ID,Field,Discrepancy,Follow_Up_Request,Status
+Q-001,PV-2026-003,Event_Onset_Date,Missing event onset date,Request clarification: missing event onset date.,Open
+Q-002,PV-2026-006,Outcome,Missing event outcome,Request clarification: missing event outcome.,Open
+Q-003,PV-2026-007,Reporter_Identifiable,Missing identifiable reporter,Request clarification: missing identifiable reporter.,Open
+Q-004,PV-2026-009,Event_Onset_Date,Missing event onset date,Request clarification: missing event onset date.,Open
+Q-005,PV-2026-012,Outcome,Missing event outcome,Request clarification: missing event outcome.,Open
+Q-006,PV-2026-014,Patient_Identifiable,Missing identifiable patient,Request clarification: missing identifiable patient.,Open
+Q-007,PV-2026-017,Event_Onset_Date,Missing event onset date,Request clarification: missing event onset date.,Open
+Q-008,PV-2026-019,Indication,Missing indication,Request clarification: missing indication.,Open
+Q-009,PV-2026-024,Indication,Missing indication,Request clarification: missing indication.,Open
+Q-010,PV-2026-025,Suspect_Drug,Missing suspect drug identity,Request clarification: missing suspect drug identity.,Open
+Q-011,PV-2026-027,Age,Missing age,Request clarification: missing age.,Open
+Q-012,PV-2026-028,Outcome,Missing event outcome,Request clarification: missing event outcome.,Open
+Q-013,PV-2026-031,Event_Onset_Date,Missing event onset date,Request clarification: missing event onset date.,Open
+Q-014,PV-2026-034,AE_Verbatim,Missing adverse reaction description,Request clarification: missing adverse reaction description.,Open
+Q-015,PV-2026-004,AE_Term_Illustrative,Clarify reported event term,Request clarification: clarify reported event term.,Closed - simulated
+Q-016,PV-2026-009,Sex,Clarify sex abbreviation,Request clarification: clarify sex abbreviation.,Closed - simulated
